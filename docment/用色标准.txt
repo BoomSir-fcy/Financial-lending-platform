@@ -7,3 +7,9 @@
             git status                // 查看状态     
             git add .                 // 纳入版本控制 
             git commit -m"简单描述"    // 提交到本地仓库
+
+            // 配置邮箱 和 用户名
+            git config --global user.email "你的邮箱@qq.com";
+            git config --global uesr.name "你的账号";
+
+            模板网站：http://www.baironginc.com/
