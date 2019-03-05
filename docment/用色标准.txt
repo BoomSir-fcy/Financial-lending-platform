@@ -1,0 +1,10 @@
+            
+            
+            git push https://github.com/BoomSir-fcy/Financial-lending-platform.git/ master
+            git pull https://github.com/BoomSir-fcy/Financial-lending-platform.git/ master
+
+
+            git clone 仓库地址         // 第一次从服务器下载代码
+            git status                // 查看状态     
+            git add .                 // 纳入版本控制 
+            git commit -m"简单描述"    // 提交到本地仓库
